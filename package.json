@@ -1,8 +1,8 @@
 {
-  "name": "moleculer-elastic-apm",
+  "name": "@chameleonbr/moleculer-elastic-apm",
   "description": "Metrics to Elastic APM Agent",
   "version": "0.0.3",
-  "author": "Ivan Zhuravlev",
+  "author": "André Avila",
   "homepage": "https://github.com/chameleonbr/moleculer-elastic-apm",
   "bugs": {
     "url": "https://github.com/chameleonbr/moleculer-elastic-apm/issues"
